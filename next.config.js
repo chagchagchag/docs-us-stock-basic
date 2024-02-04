@@ -4,9 +4,9 @@ const withNextra = require('nextra')({
 })
 
 const isProduction = process.env.NODE_ENV === "production";
-const assetPrefix = isProduction ? "/my-nextra-template" : "";
+const assetPrefix = isProduction ? "/docs-us-stock-basic" : "";
 
-// const assetPrefix = "/my-nextra-template";
+// const assetPrefix = "/docs-us-stock-basic";
 
 const nextConfig = {
   images: {
