@@ -1,0 +1,17 @@
+{
+  "seeking-alpha-how-to": "Seeking Alpha 활용법",
+  "valueation-terms": "밸류에이션 용어들",
+  "financial-terms": "재무제표 용어들",
+  "etc": "etc",
+  "index": "Introduction",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "-",
+    "newWindow": true
+  }
+}
