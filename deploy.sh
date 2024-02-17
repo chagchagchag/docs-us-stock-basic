@@ -1,3 +1,7 @@
+echo ">>> rm -rf build"
+rm -rf build
+
+echo ""
 echo ">>> rm -rf .next"
 rm -rf .next
 
